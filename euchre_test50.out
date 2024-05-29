@@ -1,0 +1,11 @@
+./euchre.exe pack.in noshuffle 3 Ivan Human Judea Human Kunle Human Liskov Human 
+Hand 0
+Ivan deals
+Jack of Diamonds turned up
+Human player Ivan's hand: [0] Nine of Diamonds
+Human player Ivan's hand: [1] Ten of Diamonds
+Human player Ivan's hand: [2] Jack of Hearts
+Human player Ivan's hand: [3] Queen of Hearts
+Human player Ivan's hand: [4] Ace of Clubs
+Discard upcard: [-1]
+Human player Ivan, please select a card to discard:
